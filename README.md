@@ -6,13 +6,11 @@ This repository documents some of the most relevant projects developed by **Vigl
 
 ## 🚀 Featured Projects
 
-### 🔒 [ComcomNet Services](./comcomnet-services)
-
+### 🔒 [ComcomNet Services](./comcomnet-services)  
 Comprehensive management system for ISPs: includes Django APIs, a React SPA, mobile apps, and modules for inventory, tasks, and customer management.
 
-### 📦 Another Project (if applicable)
-
-Short description of another project here.
+### 🧩 [ViglasNetSuite Services](./viglasnetsuite-services)  
+Multi-company SaaS ERP platform with modules for inventory, transport, projects, vendors, sales, and operational workflows — built with Django, React, and Expo.
 
 ---
 
